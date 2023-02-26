@@ -1,0 +1,27 @@
+
+body{
+    background-color: white;
+
+}
+
+header{
+    background-color: white;
+    text-align:left;
+}
+section{
+    background-color: white;
+    text-align: left;
+}
+footer{
+    background-color: white;
+    text-align: center;
+    color: #c0c0c0 ;
+}
+a{
+    color: blue;
+    margin: 50px;
+    text-decoration: none;
+}
+a:hover{
+    color: darkred;
+}
